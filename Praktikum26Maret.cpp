@@ -9,5 +9,9 @@ void input()
 	cin >> bilA;
 	cout << "Masukan bilangan kedua = ";
 	cin >> bilB;
+}
 
+int penjumlahan(int a, int b)
+{
+	return a + b;
 }
